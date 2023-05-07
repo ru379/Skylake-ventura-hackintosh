@@ -13,7 +13,7 @@ Storage: Kingston 240GB SATA SSD
 Screenshot:
 ![Captura de pantalla 2023-05-07 a las 23 36 50](https://user-images.githubusercontent.com/44674082/236703716-f6bc9e0a-3d20-4f62-b72e-fc640de24b7f.png)
 
-![Uploading graphics.png…]()
+![graphics](https://user-images.githubusercontent.com/44674082/236704376-95ff6691-ecc6-4c51-9489-d06051795564.png)
 
 ![wifi](https://user-images.githubusercontent.com/44674082/236704195-e0c9674d-5297-4ec5-8bcf-b3c7f0b0c4b7.png)
 
