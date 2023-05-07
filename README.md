@@ -20,12 +20,12 @@ Screenshot:
 ![bluetooth](https://user-images.githubusercontent.com/44674082/236704203-9d370d9c-1a36-43d6-8952-61d40b15fc4b.png)
 
 
-WHAT'S WORKING?
+WHAT'S WORKING?:
 Full Graphics Accel with Opencore Legacy Patcher on nvidia gpu
 Fully working Wifi + Bluetooth thanks to itlwn patch
 M.2 Wifi and all sata ports
 Audio with AppleALC (Realtek ALC892 codec)
 HDMI Audio
 
-WHAT IS NOT WORKING?
+WHAT IS NOT WORKING?:
 Intel HD 520 (iGPU): it could be easily fixed with some opencore patches but I prefer to use the nvidia GPU because it is easier to make it work, it is more powerfull and has it's own memory (1gb vram) meanwhile the igpu uses normal RAM
