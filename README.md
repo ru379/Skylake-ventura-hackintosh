@@ -1,4 +1,4 @@
-# Skylake-ventura-hackintosh
+# Skylake-hackintosh
 In this repository, there is available the boot files (EFI folder) to boot macOS Ventura for my pc build
 This files are based on the EFI folder available on olarila.com so many thanks to their team.
 
